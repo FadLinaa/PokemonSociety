@@ -1,0 +1,30 @@
+{
+    "name": "group-1045877",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "tsc",
+      "start": "node index.js",
+      "dev": "nodemon index.ts"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@rendu-git.etna-alternance.net:module-9764/activity-52658/group-1045877.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@types/node": "^22.9.0",
+      "express": "^4.21.1",
+      "mysql2": "^3.11.4",
+      "nodemon": "^3.1.7",
+      "ts-node": "^10.9.2"
+    },
+    "devDependencies": {
+      "@types/express": "^5.0.0"
+    }
+  }
+  
